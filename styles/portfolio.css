@@ -158,3 +158,67 @@ section{
 .skill-description {
     color: #757575;
 }
+
+/* Resume styles */
+
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume-tittle{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.sub-tittle{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume .description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-button{
+    margin: 50px;
+    text-align: center;
+}
+/* footer style  */
+.footer{
+    display: flex;
+    gap: 150px;
+    text-align: left;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact-title{
+    font-weight: 700;
+font-size: 35px;
+margin-bottom: 20px;
+}
+.connect-des{
+    width: 562px;
+    font-weight: 400;
+font-size: 16px;
+margin-bottom: 30px;
+}
+input{
+    margin-bottom: 20px;
+    height: 64px;
+    width: 461px;
+}
+textarea{
+    width: 461px;
+height: 180px;
+left: 909px;
+top: 3858px;
+}
+
+
